@@ -1,7 +1,7 @@
 # Schwinger-Model-QCD-
-Measurments class is the Parent-class 
+Measurments, is the Parent-class 
 Schwinger contains the forces and energ functions
-Integraotrs containt various integrators
+Integraotrs contains various integrators
 Observable class is for data analysis.
 
 One can start with the following to create an object:
