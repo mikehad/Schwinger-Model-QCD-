@@ -3,6 +3,7 @@
 -Schwinger contains the forces and energ functions.
 -Integraotrs contains various integrators.
 -Observable class is for data analysis.
+mc2py is the package
 
 One can start with the following to create an object:
 
